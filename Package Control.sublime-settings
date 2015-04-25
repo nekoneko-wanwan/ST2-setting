@@ -1,0 +1,45 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"4GL",
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Color Highlighter",
+		"CSS Snippets",
+		"CSScomb",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"Find++",
+		"FindKeyConflicts",
+		"Goto-CSS-Declaration",
+		"Hayaku - tools for writing CSS faster",
+		"Hex-to-RGBA",
+		"HTML5",
+		"IMESupport",
+		"InputSequence",
+		"Jade",
+		"Japanize",
+		"jQuery",
+		"Line Endings Unify",
+		"Markdown Extended",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SCSS",
+		"SublimeLinter",
+		"Sublimerge Pro",
+		"Theme - Flatland"
+	],
+	"repositories":
+	[
+		"https://github.com/kope88/InputSequence.git",
+		"https://github.com/aurosB/sublime-multi-number-input.git"
+	]
+}

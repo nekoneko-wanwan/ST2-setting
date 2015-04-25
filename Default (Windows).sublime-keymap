@@ -1,0 +1,4 @@
+[
+ { "keys": ["ctrl+shift+q"], "command": "input_sequence"}, // 連番の自動生成
+ { "keys": ["ctrl+i"], "command": "alignment" }
+]

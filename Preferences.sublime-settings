@@ -1,0 +1,32 @@
+{
+	"afn_insert_width_first": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"default_encoding": "UTF-8",
+	"detect_slow_plugins": false,
+	"draw_white_space": "all",
+	"fallback_encoding": "UTF-8",
+	"flatland_square_tabs": true,
+	"font_face": "MeiryoKe_Console",
+	"font_size": 12,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Monokai Extended",
+		"Color Highlighter",
+		"AdvancedNewFile"
+	],
+	"line_padding_top": 5,
+	"margin": 0,
+	"match_brackets_angle": false,
+	"remember_open_files": false,
+	"show_encoding": true,
+	"tab_size": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": true
+}
